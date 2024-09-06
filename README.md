@@ -5,13 +5,16 @@ I worked on a Coffee Shop Sales Dataset using various tools and platforms to ana
 🔍 1. Python (EDA with Matplotlib, Seaborn)
 Conducted comprehensive Exploratory Data Analysis (EDA) using Python to uncover trends in sales based on time of day, product popularity, and seasonal changes.
 Created detailed visualizations using Matplotlib and Seaborn to highlight key insights like peak sales hours and best-selling products.
+
 📊 2. Excel (EDA, VLOOKUP, Dashboard)
 Built a dynamic dashboard to monitor KPIs using Excel.
 Performed VLOOKUP and pivot table analysis to match data and analyze trends.
 Generated reports to highlight sales and revenue trends by day, week, and product type.
+
 📈 3. Power BI (Interactive Dashboard)
 Developed an interactive dashboard in Power BI to showcase sales data across multiple store locations, time periods, and product categories.
 Visualized key insights like top-performing products and monthly revenue growth.
+
 🛠️ 4. SQL (MySQL Workbench)
 Executed advanced SQL queries for data extraction and sales trend analysis.
 Integrated SQL data with Power BI and Excel for deeper insights into sales performance.
