@@ -22,7 +22,7 @@ Used aggregation and joins to analyze sales at different times and across catego
 Key Outcomes:
 
 Discovered growth areas and revenue-driving products.
-Analyzed footfall and sales trends by day of the week and hour of the day.
+Analyzed coffee and sales trends by day of the week and hour of the day.
 Provided actionable insights to enhance business strategies for inventory, staffing, and promotions.
 
 I'm thrilled to have enhanced my data analysis skills with Python, Excel, Power BI, and SQL .
